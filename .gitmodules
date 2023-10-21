@@ -10,3 +10,9 @@
 [submodule "src/unitree_ros_to_real"]
 	path = src/unitree_ros_to_real
 	url = https://github.com/unitreerobotics/unitree_ros_to_real.git
+[submodule "src/towr"]
+	path = src/towr
+	url = https://github.com/ethz-adrl/towr.git
+[submodule "src/ifopt"]
+	path = src/ifopt
+	url = https://github.com/ethz-adrl/ifopt.git
