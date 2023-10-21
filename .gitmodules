@@ -1,15 +1,9 @@
 [submodule "src/unitree_guide"]
 	path = src/unitree_guide
 	url = https://github.com/unitreerobotics/unitree_guide.git
-[submodule "src/unitree_legged_sdk"]
-	path = src/unitree_legged_sdk
-	url = https://github.com/unitreerobotics/unitree_legged_sdk.git
 [submodule "src/unitree_ros"]
 	path = src/unitree_ros
 	url = https://github.com/unitreerobotics/unitree_ros.git
-[submodule "src/unitree_ros_to_real"]
-	path = src/unitree_ros_to_real
-	url = https://github.com/unitreerobotics/unitree_ros_to_real.git
 [submodule "src/towr"]
 	path = src/towr
 	url = https://github.com/ethz-adrl/towr.git
@@ -28,3 +22,18 @@
 [submodule "src/elevation_mapping"]
 	path = src/elevation_mapping
 	url = https://github.com/ANYbotics/elevation_mapping.git
+[submodule "src/hpp-fcl"]
+	path = src/hpp-fcl
+	url = https://github.com/humanoid-path-planner/hpp-fcl.git
+[submodule "src/kindr"]
+	path = src/kindr
+	url = https://github.com/ANYbotics/kindr.git
+[submodule "src/kindr_ros"]
+	path = src/kindr_ros
+	url = https://github.com/ANYbotics/kindr_ros.git
+[submodule "src/message_logger"]
+	path = src/message_logger
+	url = https://github.com/ANYbotics/message_logger.git
+[submodule "src/elevation_mapping_cupy"]
+	path = src/elevation_mapping_cupy
+	url = https://github.com/leggedrobotics/elevation_mapping_cupy.git
