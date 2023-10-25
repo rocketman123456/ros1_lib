@@ -37,3 +37,6 @@
 [submodule "src/elevation_mapping_cupy"]
 	path = src/elevation_mapping_cupy
 	url = https://github.com/leggedrobotics/elevation_mapping_cupy.git
+[submodule "src/realsense-ros"]
+	path = src/realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
