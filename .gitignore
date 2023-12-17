@@ -4,6 +4,7 @@ build/
 build_isolated/
 devel_isolated/
 install_isolated/
+install/
 bin/
 lib/
 msg_gen/
